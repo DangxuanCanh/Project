@@ -1,0 +1,20 @@
+apple|táo
+dog|chó
+cat|mèo
+car|xe
+book|sách
+teacher|giáo viên
+student|học sinh
+water|nước
+food|thức ăn
+computer|máy tính
+house|nhà
+school|trường
+chair|ghế
+table|bàn
+pen|bút
+paper|giấy
+phone|điện thoại
+music|âm nhạc
+flower|hoa
+river|sông
