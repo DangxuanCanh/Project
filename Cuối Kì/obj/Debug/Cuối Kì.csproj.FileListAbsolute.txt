@@ -9,3 +9,14 @@ D:\NET\C#\Cuối Kì\Cuối Kì\obj\Debug\Cuối Kì.csproj.CoreCompileInputs.ca
 D:\NET\C#\Cuối Kì\Cuối Kì\obj\Debug\Cuối Kì.exe
 D:\NET\C#\Cuối Kì\Cuối Kì\obj\Debug\Cuối Kì.pdb
 D:\NET\C#\Cuối Kì\Cuối Kì\obj\Debug\Cuối Kì.exe.config
+D:\NET\C#\Project\Cuối Kì\bin\Debug\Cuối Kì.exe.config
+D:\NET\C#\Project\Cuối Kì\bin\Debug\Cuối Kì.exe
+D:\NET\C#\Project\Cuối Kì\bin\Debug\Cuối Kì.pdb
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.csproj.AssemblyReference.cache
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.exe.config
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối_Kì.Form1.resources
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối_Kì.Properties.Resources.resources
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.csproj.GenerateResource.cache
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.csproj.CoreCompileInputs.cache
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.exe
+D:\NET\C#\Project\Cuối Kì\obj\Debug\Cuối Kì.pdb

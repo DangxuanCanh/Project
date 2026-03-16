@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NET\\C#\\Cu\u1ED1i K\u00EC\\",
+  "WorkspaceRootPath": "D:\\NET\\C#\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1830B76-0611-44FD-AA0E-5AC6AD05668C}|Cu\u1ED1i K\u00EC\\Cu\u1ED1i K\u00EC.csproj|d:\\net\\c#\\cu\u1ED1i k\u00EC\\cu\u1ED1i k\u00EC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E1830B76-0611-44FD-AA0E-5AC6AD05668C}|Cu\u1ED1i K\u00EC\\Cu\u1ED1i K\u00EC.csproj|d:\\net\\c#\\project\\cu\u1ED1i k\u00EC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1830B76-0611-44FD-AA0E-5AC6AD05668C}|Cu\u1ED1i K\u00EC\\Cu\u1ED1i K\u00EC.csproj|solutionrelative:cu\u1ED1i k\u00EC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\NET\\C#\\Cu\u1ED1i K\u00EC\\Cu\u1ED1i K\u00EC\\Form1.cs",
+              "DocumentMoniker": "D:\\NET\\C#\\Project\\Cu\u1ED1i K\u00EC\\Form1.cs",
               "RelativeDocumentMoniker": "Cu\u1ED1i K\u00EC\\Form1.cs",
-              "ToolTip": "D:\\NET\\C#\\Cu\u1ED1i K\u00EC\\Cu\u1ED1i K\u00EC\\Form1.cs [Design]",
+              "ToolTip": "D:\\NET\\C#\\Project\\Cu\u1ED1i K\u00EC\\Form1.cs [Design]",
               "RelativeToolTip": "Cu\u1ED1i K\u00EC\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T00:45:56.822Z",

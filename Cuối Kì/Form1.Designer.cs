@@ -38,7 +38,7 @@
             this.ClientSize = new System.Drawing.Size(1319, 727);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "English Test Ver Nghèo";
             this.ResumeLayout(false);
 
         }
